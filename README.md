@@ -1,16 +1,111 @@
-## Hi there 👋
+# 👩🏻‍💻 Ana Luiza
 
-<!--
-**luizapgnl/luizapgnl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Estudante de Análise e Desenvolvimento de Sistemas`**
 
-Here are some ideas to get you started:
+Me chamo **Ana Luiza**, tenho **17 anos** e sou estudante da área de tecnologia.  
+Atualmente estou cursando **Análise e Desenvolvimento de Sistemas** e estudando **Python** e **C**, com foco em lógica de programação e desenvolvimento de software.  
+Tenho interesse em aprender cada vez mais e construir uma base sólida na área de programação.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+    <a href="https://github.com/luizapgnl?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/luizapgnl?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+    <a href="https://github.com/luizapgnl?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/luizapgnl?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+</p>
+
+---
+
+### 🌐 Contatos
+
+<p align="left">
+    <a href="#">
+        <img 
+            alt="LinkedIn"
+            title="LinkedIn"
+            src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
+    </a>
+    <a href="https://www.instagram.com/_analuizaafrr/">
+        <img 
+            alt="Instagram"
+            title="Instagram"
+            src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+        />
+    </a>
+    <a href="mailto:analuiza020109@gmail.com">
+        <img 
+            alt="Email"
+            title="Email"
+            src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+        />
+    </a>
+</p>
+
+---
+
+### 🤖 Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="Python"
+    title="Python" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="C"
+    title="C" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git"
+    title="Git" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+
+<br/>
+<br/>
+
+---
+
+### 📌 Sobre meus estudos
+
+- Lógica de Programação  
+- Algoritmos  
+- Python  
+- C  
+- Desenvolvimento de projetos práticos  
+
+---
+
+### 📊 Estatísticas
+
+
+<p>
+  <img 
+    align="left" 
+    src="https://github-readme-stats.vercel.app/api?username=luizapgnl&show_icons=true&theme=tokyonight"
+  />
+
+  <img 
+    align="left" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizapgnl&theme=tokyonight&layout=compact"
+  />
+</p>
