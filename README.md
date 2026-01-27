@@ -119,6 +119,37 @@ Tenho interesse em aprender cada vez mais e construir uma base sólida na área 
 - Desenvolvimento de projetos práticos  
 
 ---
+import matplotlib.pyplot as plt
+
+# Dados do gráfico
+dias = [28, 29, 30, 31, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27]
+contribuicoes = [1, 3, 4, 6, 0, 4, 2, 0, 0, 0, 1, 0, 5, 1, 0, 4, 6, 2, 10, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+# Estilo escuro
+plt.style.use("dark_background")
+
+plt.figure(figsize=(12, 4))
+plt.plot(
+    dias,
+    contribuicoes,
+    color="#00ff88",
+    marker="o",
+    linewidth=2
+)
+
+# Preenchimento abaixo da curva
+plt.fill_between(dias, contribuicoes, color="#00ff88", alpha=0.15)
+
+# Títulos e rótulos
+plt.title("Luis Filipe's Contribution Graph", fontsize=12)
+plt.xlabel("Days")
+plt.ylabel("Contributions")
+
+# Grade
+plt.grid(True, linestyle="--", alpha=0.3)
+
+plt.tight_layout()
+plt.show()
 
 ### 📊 Estatísticas
 
