@@ -2,7 +2,7 @@
 
 **`Estudante de Análise e Desenvolvimento de Sistemas`**
 
-Me chamo **Ana Luiza**, tenho **18 anos** e sou estudante da área de tecnologia.  
+Me chamo **Ana Luiza**, tenho **17 anos** e sou estudante da área de tecnologia.  
 Atualmente estou cursando **Análise e Desenvolvimento de Sistemas** e estudando **Python** e **C**, com foco em lógica de programação e desenvolvimento de software.  
 Tenho interesse em aprender cada vez mais e construir uma base sólida na área de programação.
 
