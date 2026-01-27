@@ -119,6 +119,14 @@ Tenho interesse em aprender cada vez mais e construir uma base sólida na área 
 - Desenvolvimento de projetos práticos  
 
 ---
+### 📈 Gráfico de Contribuições
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=luizapgnl&theme=tokyo-night&hide_border=true"
+    alt="Gráfico de contribuições do GitHub"
+  />
+</p>
 
 
 ### 📊 Estatísticas
