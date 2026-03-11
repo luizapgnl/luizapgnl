@@ -116,7 +116,10 @@ Tenho interesse em aprender cada vez mais e construir uma base sólida na área 
 - Algoritmos  
 - Python  
 - C  
-- Desenvolvimento de projetos práticos  
+- Desenvolvimento de projetos práticos 
+- HTML
+- CSS
+- Banco de Dados 
 
 ---
 ### 📈 Gráfico de Contribuições
