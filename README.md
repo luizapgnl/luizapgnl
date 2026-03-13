@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Ana Luiza
 
-**`Estudante de Análise e Desenvolvimento de Sistemas`**
+**`Estudante de Desenvolvimento de Sistemas`**
 
 Me chamo **Ana Luiza**, tenho **17 anos** e sou estudante da área de tecnologia.  
 Atualmente estou cursando fazendo curso técnico em **Desenvolvimento de Sistemas** e estudando **Python** e **C**, com foco em lógica de programação e desenvolvimento de software.  
