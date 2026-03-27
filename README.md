@@ -25,7 +25,7 @@ Tenho interesse em aprender cada vez mais e construir uma base sólida na área 
 
 ---
 
-### 🌐 Contatos
+### 💬 Entre em contato comigo através das minhas redes sociais!
 
 <p align="left">
     <a href="#">
