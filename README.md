@@ -116,14 +116,17 @@ Tenho interesse em aprender cada vez mais e construir uma base sólida na área 
 
 ### 📌 Sobre meus estudos
 
-- Lógica de Programação  
-- Algoritmos  
-- Python  
-- C  
-- Desenvolvimento de projetos práticos 
-- HTML
-- CSS
-- Banco de Dados 
+1. Lógica de Programação;
+2. Algoritmos; 
+3. Desenvolvimento de Projetos Práticos; 
+4. Programação de Aplicativos; 
+5. Banco de Dados (Modelagem e SQL); 
+6. IoT e Sistemas Embarcados; 
+7. Eletrônica Básica (Arduino e circuitos elétricos); 
+8. Python; 
+9. C; 
+10. HTML;
+11. CSS.
 
 ---
 ### 📈 Gráfico de Contribuições
