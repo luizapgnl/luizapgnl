@@ -126,7 +126,8 @@ Tenho interesse em aprender cada vez mais e construir uma base sólida na área 
 8. Python; 
 9. C; 
 10. HTML;
-11. CSS.
+11. CSS;
+12. Java Script.
 
 ---
 ### 📈 Gráfico de Contribuições
