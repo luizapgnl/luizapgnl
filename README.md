@@ -28,7 +28,7 @@ Tenho interesse em aprender cada vez mais e construir uma base sólida na área 
 ### 💬 Entre em contato comigo através das minhas redes sociais!
 
 <p align="left">
-    <a href="#">
+    <a href="https://www.linkedin.com/in/ana-luiza-357928376/">
         <img 
             alt="LinkedIn"
             title="LinkedIn"
