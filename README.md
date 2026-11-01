@@ -55,7 +55,7 @@ Tenho interesse em aprender cada vez mais e construir uma base sólida na área 
 | Lógica de Programação | Projetos Práticos | HTML | IoT e Sistemas Embarcados |
 | Algoritmos | Programação de Aplicativos | CSS | Eletrônica Básica |
 | Python | Banco de Dados (Modelagem e SQL) | JavaScript | Arduino e circuitos elétricos |
-| C | Modelagem de Sistemas | PHP e JSON | |
+| C | Modelagem de Sistemas | PHP e JSON | | Desenvolvimento de Sistemas e Modelagem de Sistemas
 
 ---
 
