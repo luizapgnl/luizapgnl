@@ -59,21 +59,44 @@ Gosto de aprender coisas novas, desenvolver projetos e transformar conhecimentos
 
 ---
 
-## 📚 Minha jornada de aprendizado
 
-| 🧠 Fundamentos | 🛠️ Desenvolvimento |
-|:---|:---|
-| Lógica de Programação | Projetos Práticos |
-| Algoritmos | Programação de Aplicativos |
-| Python | Banco de Dados |
-| Linguagem C | Modelagem de Sistemas |
+<h2>📚 Minha jornada de aprendizado</h2>
 
-| 🌐 Desenvolvimento Web | 🔌 Hardware |
-|:---|:---|
-| HTML | IoT |
-| CSS | Sistemas Embarcados |
-| JavaScript | Eletrônica Básica |
-| PHP e JSON | Arduino e Circuitos Elétricos |
+<table align="center">
+  <tr>
+    <th>🧠 Fundamentos</th>
+    <th>🛠️ Desenvolvimento</th>
+    <th>🌐 Desenvolvimento Web</th>
+    <th>🔌 Hardware</th>
+  </tr>
+  <tr>
+    <td>Lógica de Programação</td>
+    <td>Projetos Práticos</td>
+    <td>HTML</td>
+    <td>IoT</td>
+  </tr>
+  <tr>
+    <td>Algoritmos</td>
+    <td>Programação de Aplicativos</td>
+    <td>CSS</td>
+    <td>Sistemas Embarcados</td>
+  </tr>
+  <tr>
+    <td>Python</td>
+    <td>Banco de Dados</td>
+    <td>JavaScript</td>
+    <td>Eletrônica Básica</td>
+  </tr>
+  <tr>
+    <td>Linguagem C</td>
+    <td>Modelagem de Sistemas</td>
+    <td>PHP e JSON</td>
+    <td>Arduino e Circuitos Elétricos</td>
+  </tr>
+</table>
+
+---
+
 
 ---
 
