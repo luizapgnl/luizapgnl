@@ -35,11 +35,6 @@ Gosto de aprender coisas novas, desenvolver projetos e transformar conhecimentos
 
 ---
 
-
-<h2 align="center">💻 Tecnologias e ferramentas</h2>
-
-<div align="center">
-
 ### ⌨️ Linguagens de programação
 
 <img src="https://skillicons.dev/icons?i=python,c,php,js&theme=dark" />
@@ -47,21 +42,6 @@ Gosto de aprender coisas novas, desenvolver projetos e transformar conhecimentos
 ### 🌐 Desenvolvimento Web
 
 <img src="https://skillicons.dev/icons?i=html,css&theme=dark" />
-
-### 🛠️ Ferramentas e banco de dados
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql&theme=dark" />
-
-</div>
-
----
-
-
-### 🌐 Desenvolvimento Web
-
-<img src="https://skillicons.dev/icons?i=html,css&theme=dark" />
-
-<br><br>
 
 ### 🛠️ Ferramentas e banco de dados
 
