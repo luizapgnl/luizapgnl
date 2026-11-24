@@ -1,91 +1,138 @@
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5b21b6,100:a855f7&height=200&section=header&text=Ana%20Luiza&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Estudante%20de%20Desenvolvimento%20de%20Sistemas&descAlignY=60&descSize=20" alt="Cabeçalho" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:17052b,50:512080,100:a855f7&height=220&section=header&text=Ana%20Luiza&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvimento%20de%20Sistemas%20%7C%20Tecnologia%20%26%20Inova%C3%A7%C3%A3o&descAlignY=60&descSize=17" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=236AD3&center=true&vCenter=true&width=600&lines=Aprendendo+Python+e+C+%F0%9F%90%8D;Estudando+PHP+e+JSON+%F0%9F%9A%80;Modelagem+de+Sistemas+%F0%9F%A7%A9;Construindo+uma+base+s%C3%B3lida+%F0%9F%92%BB" alt="Digitando..." />
+<br>
 
-<p>
-  <a href="https://github.com/luizapgnl?tab=followers">
-    <img alt="Seguidores" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/luizapgnl?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" />
-  </a>
-  <a href="https://github.com/luizapgnl?tab=repositories&sort=stargazers">
-    <img alt="Total de estrelas" title="Total de estrelas GitHub" src="https://custom-icon-badges.demolab.com/github/stars/luizapgnl?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas" />
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1200&color=C084FC&center=true&vCenter=true&width=650&lines=Explorando+o+universo+da+programa%C3%A7%C3%A3o+%F0%9F%AA%90;Aprendendo+Python+e+C+%F0%9F%90%8D;Desenvolvendo+com+PHP%2C+HTML+e+CSS+%F0%9F%92%BB;Transformando+ideias+em+projetos+%E2%9C%A8" />
+
+<br><br>
+
+<a href="https://github.com/luizapgnl">
+<img src="https://img.shields.io/badge/GitHub-17052b?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://github.com/luizapgnl?tab=followers">
+<img src="https://img.shields.io/github/followers/luizapgnl?style=for-the-badge&color=7e22ce&labelColor=17052b&logo=github&label=Seguidores" />
+</a>
+<a href="https://github.com/luizapgnl?tab=repositories">
+<img src="https://img.shields.io/badge/Projetos-8b5cf6?style=for-the-badge&logo=git&logoColor=white" />
+</a>
+
+<br><br>
 
 </div>
 
 ---
 
-## 👩🏻‍💻 Sobre mim
+## ✨ Sobre mim
 
-Me chamo **Ana Luiza** e sou estudante da área de tecnologia.
-Atualmente estou cursando técnico em **Desenvolvimento de Sistemas** e estudando **Python** e **C**, com foco em lógica de programação e desenvolvimento de software.
-Também estou começando a explorar **PHP**, **JSON** e **Modelagem de Sistemas**.
-Tenho interesse em aprender cada vez mais e construir uma base sólida na área de programação.
+<img align="right" width="155" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+Olá! Meu nome é **Ana Luiza** e sou estudante de **Desenvolvimento de Sistemas**.
+
+Atualmente, estou aprofundando meus conhecimentos em Python e C, desenvolvendo minha lógica de programação e aprendendo sobre desenvolvimento de software.
+
+Também estou explorando tecnologias como PHP, JSON, HTML, CSS e Modelagem de Sistemas.
+
+Gosto de aprender coisas novas, desenvolver projetos e transformar conhecimentos em soluções.
+
+<br clear="right"/>
 
 ---
 
 ## 🪐 Meu universo de código
 
 <div align="center">
-  <img src="./assets/solar-system.svg" alt="Sistema solar animado" width="100%" />
+
+<img src="./assets/solar-system.svg" width="100%" alt="Meu universo de código"/>
+
+*Cada projeto é uma nova descoberta. Cada linha de código, uma nova possibilidade.*
+
 </div>
 
 ---
 
-## 🤖 Linguagens e Tecnologias
+## 💻 Tecnologias e ferramentas
 
-<p align="center">
-  <img alt="HTML" title="HTML" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />&nbsp;&nbsp;
-  <img alt="CSS" title="CSS" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />&nbsp;&nbsp;
-  <img alt="JavaScript" title="JavaScript" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />&nbsp;&nbsp;
-  <img alt="Python" title="Python" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;&nbsp;
-  <img alt="C" title="C" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />&nbsp;&nbsp;
-  <img alt="PHP" title="PHP" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />&nbsp;&nbsp;
-  <img alt="Git" title="Git" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-</p>
+<div align="center">
 
----
+### Linguagens de programação
 
-## 📌 Sobre meus estudos
+<img src="https://skillicons.dev/icons?i=python,c,php,js&theme=dark" />
 
-| 🧠 Base | 🛠️ Prática | 🌐 Web | 🔌 Hardware |
-|---|---|---|---|
-| Lógica de Programação | Projetos Práticos | HTML | IoT e Sistemas Embarcados |
-| Algoritmos | Programação de Aplicativos | CSS | Eletrônica Básica |
-| Python | Banco de Dados (Modelagem e SQL) | JavaScript | Arduino e circuitos elétricos |
-| C | Modelagem de Sistemas | PHP e JSON | | Desenvolvimento de Sistemas e Modelagem de Sistemas
+### Desenvolvimento Web
+
+<img src="https://skillicons.dev/icons?i=html,css&theme=dark" />
+
+### Ferramentas
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql&theme=dark" />
+
+</div>
 
 ---
 
-## 📈 Gráfico de Contribuições
+## 📚 Minha jornada de aprendizado
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=luizapgnl&theme=tokyo-night&hide_border=true" alt="Gráfico de contribuições do GitHub" />
-</p>
+<div align="center">
 
-## 📊 Estatísticas
+| 🧠 Fundamentos | 🛠️ Desenvolvimento |
+|:---:|:---:|
+| Lógica de Programação | Projetos Práticos |
+| Algoritmos | Programação de Aplicativos |
+| Python | Banco de Dados |
+| Linguagem C | Modelagem de Sistemas |
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=luizapgnl&show_icons=true&theme=tokyonight" alt="Estatísticas" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizapgnl&theme=tokyonight&layout=compact" alt="Linguagens mais usadas" />
-</p>
+| 🌐 Desenvolvimento Web | 🔌 Hardware |
+|:---:|:---:|
+| HTML | IoT |
+| CSS | Sistemas Embarcados |
+| JavaScript | Eletrônica Básica |
+| PHP e JSON | Arduino e Circuitos Elétricos |
+
+</div>
 
 ---
 
-## 💬 Entre em contato comigo!
+## 📊 Estatísticas do GitHub
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ana-luiza-357928376/">
-    <img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/_analuizaafrr/">
-    <img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:analuiza020109@gmail.com">
-    <img alt="Email" title="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,100:5b21b6&height=100&section=footer" width="100%" alt="Rodapé" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=luizapgnl&show_icons=true&hide_border=true&bg_color=17052b&title_color=c084fc&icon_color=a855f7&text_color=e9d5ff&rank_icon=github" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizapgnl&layout=compact&hide_border=true&bg_color=17052b&title_color=c084fc&text_color=e9d5ff" />
+
+<br><br>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=luizapgnl&bg_color=17052b&color=c084fc&line=9333ea&point=e9d5ff&area=true&hide_border=true" />
+
+</div>
+
+---
+
+## 🌌 Vamos nos conectar?
+
+<div align="center">
+
+<a href="https://github.com/luizapgnl">
+<img src="https://img.shields.io/badge/GitHub-17052b?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/ana-luiza-357928376/">
+<img src="https://img.shields.io/badge/LinkedIn-512080?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/_analuizaafrr/">
+<img src="https://img.shields.io/badge/Instagram-7e22ce?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="mailto:analuiza020109@gmail.com">
+<img src="https://img.shields.io/badge/Email-a855f7?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:512080,100:17052b&height=120&section=footer&text=Obrigada%20pela%20visita!&fontSize=20&fontColor=ffffff&fontAlignY=65" width="100%" />
+
+</div>
